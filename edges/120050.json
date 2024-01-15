@@ -1,0 +1,1 @@
+{"name": "मोटर_गाड़ी", "id": 120050, "predecessors": [{"name": "यांत्रिक_प्रौद्योगिकी", "id": 44431}, {"name": "वाहन", "id": 72214}], "successors": [{"name": "Automotive_company_navigational_boxes", "id": 35417}, {"name": "इंजन", "id": 120036}, {"name": "सेडान", "id": 776629}]}
