@@ -1,1 +1,1 @@
-{"name": "Wikipedia_metatemplates", "id": 193697, "predecessors": [{"name": "Wikipedia_utility_templates", "id": 440321}], "successors": [{"name": "साँचा_प्रलेखीकरण", "id": 32667}, {"name": "Template_namespace_templates", "id": 193696}, {"name": "साँचा_प्रलेखन_पृष्ठ", "id": 555767}]}
+{"name": "Wikipedia_metatemplates", "id": 193697, "predecessors": [{"name": "साँचे", "id": 72000}], "successors": [{"name": "साँचा_प्रलेखीकरण", "id": 32667}, {"name": "Template_namespace_templates", "id": 193696}, {"name": "साँचा_प्रलेखन_पृष्ठ", "id": 555767}]}

@@ -1,1 +1,1 @@
-{"name": "रक्त", "id": 162901, "predecessors": [{"name": "ऊतक", "id": 166814}], "successors": []}
+{"name": "रक्त", "id": 162901, "predecessors": [{"name": "प्राणी_विज्ञान", "id": 47124}, {"name": "प्राणी_शारीरिकी", "id": 500635}], "successors": []}
