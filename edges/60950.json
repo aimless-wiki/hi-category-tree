@@ -1,1 +1,1 @@
-{"name": "विमान", "id": 60950, "predecessors": [{"name": "उद्योग", "id": 33589}], "successors": []}
+{"name": "विमान", "id": 60950, "predecessors": [{"name": "उद्योग", "id": 33589}], "successors": [{"name": "विमान_सेवा", "id": 4805}, {"name": "लड़ाकू_विमान", "id": 262030}]}
